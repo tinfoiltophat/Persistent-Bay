@@ -386,9 +386,7 @@
 	contains = list(/obj/item/clothing/under/rank/chef,
 					/obj/item/clothing/head/chefhat,
 					/obj/item/clothing/suit/chef/classic,
-					/obj/item/weapon/material/kitchen/rollingpin
-					/obj/item/weapon/material/knife
-					/obj/item/weapon/material/knife/butch,
+					/obj/item/weapon/reagent_containers/glass/rag
 					/obj/item/weapon/reagent_containers/food/condiment/enzyme,
 					/obj/item/device/radio/headset/headset_service)
 	cost = 8
